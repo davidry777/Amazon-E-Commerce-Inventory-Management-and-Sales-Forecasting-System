@@ -8,3 +8,6 @@ The objective of our system is to manage an e-commerce store's sales data, order
 1.	David Ryan: MongoDB Database Management, Data Mining, Data Manipulation, Exploratory Data Analysis
 2.	Harshil Nandwani: Predictive learning, Machine learning, Data Modeling, System Interface
 3.	Rishub Talreja: Data Pre-processing, Data Normalization, Data Viusalization
+
+# Final Project Report
+[Link](https://github.com/davidry777/Amazon-E-Commerce-Inventory-Management-and-Sales-Forecasting-System/blob/main/DS5110-FinalProjectReport.pdf)
